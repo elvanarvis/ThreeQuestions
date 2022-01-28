@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ThreeQuestions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cevapla">cevapla</string>
+    <string name="third_text">Avrupa Birliğini iki kez halk oylamasıyla reddeden ülke hangisidir?</string>
+    <string name="secondQuestion">Maddenin ölçülemeyen özelliği hangisidir?</string>
+    <string name="first_question">Notada durak işareti hangisidir?</string>
+    <string name="home_first">"FIRST QUESTION"</string>
+    <string name="home_second">"SECOND QUESTION"</string>
+    <string name="home_third">"THIRD QUESTION"</string>
+    <string name="home">home</string>
+</resources>
